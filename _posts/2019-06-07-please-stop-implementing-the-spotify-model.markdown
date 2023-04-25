@@ -2,7 +2,10 @@
 layout: post
 title:  "Please stop implementing the Spotify model"
 date:   2019-06-07 12:00:00 +0200
+image:  /assets/images/stop-go.jpg
 ---
+![stop!](/assets/images/stop-go.jpg)
+
 It seems like tribes and squads and guilds are everywhere. I get the impression that a lot of people looked at the way Spotify is doing agile and thought: that sounds cool, let's do that.
 
 **I think that is a fundamentally wrong approach to fix any issue that you are facing in your journey towards becoming agile**
